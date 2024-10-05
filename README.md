@@ -28,10 +28,6 @@ To view the ASCII art:
 
 ## About Mainul Ahsan Noble
 
-## Disclaimer
-
-Please note that the information provided about Mainul Ahsan Noble in this README is sourced from various online platforms and Google searches. While efforts have been made to ensure accuracy, we cannot guarantee the complete reliability or up-to-date nature of this information. Users are advised to verify any critical details from official sources or more recent publications.
-
 Mainul Ahsan Noble is a renowned Bangladeshi singer, songwriter, and composer. Born on October 31, 1995, in Barisal, Bangladesh, Noble rose to fame after participating in the reality TV show "Sa Re Ga Ma Pa" in 2018-2019, where he finished as the first runner-up.
 
 Key facts about Mainul Ahsan Noble:
@@ -54,9 +50,9 @@ Key facts about Mainul Ahsan Noble:
 
 This project aims to pay tribute to Noble's artistry in a unique, digital format, celebrating his contributions to the Bangladeshi music industry.
 
-## Contributing
+## Disclaimer
 
-Contributions to improve the ASCII art generation or expand the project are welcome. Please feel free to fork the repository and submit pull requests.
+The information provided about Mainul Ahsan Noble in this README is based on publicly available sources and may not be exhaustive or entirely up-to-date. While we have made efforts to ensure accuracy, we cannot guarantee the completeness or currency of the information. This project is intended for entertainment and artistic purposes only. For the most current and official information about Mainul Ahsan Noble, please refer to his official channels or verified sources. Users are encouraged to verify any critical information independently before relying on it.
 
 ## License
 
